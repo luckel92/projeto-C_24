@@ -34,7 +34,7 @@ function setup() {
   }
 
   var rock_options = {
-    restitution: 0.2,
+     restitution: 0.2,
     // restitution: 1,
     //restitution: -0.8,
     // restitution: 0.75,
